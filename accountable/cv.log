@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.4.25)  8 JUL 2025 11:51
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.4.25)  11 JUL 2025 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -958,10 +958,7 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
-) (./cv/education.tex
-LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 16.0pt on input line 4.
- [2]) [3]
+) (./cv/education.tex) [2]
 (./cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -971,12 +968,12 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32440 strings out of 474878
- 657637 string characters out of 5762516
+ 32439 strings out of 474878
+ 657611 string characters out of 5762516
  1953627 words of memory out of 5000000
- 53945 multiletter control sequences out of 15000+600000
+ 53944 multiletter control sequences out of 15000+600000
  560729 words of font info for 108 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  116i,12n,121p,540b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv.pdf (3 pages).
+Output written on cv.pdf (2 pages).
